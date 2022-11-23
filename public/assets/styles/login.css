@@ -172,19 +172,13 @@ ul{
 }
 
 
-/*Start form style*/
+/*--------------*/
 form {
-    background-image: url('http://ryokb95.upload-website.com/login-signupform/imgs/1.jpg');
     height: 550px;
     width: 500px;
     margin: 60px auto;
     border-radius: 8px
   }
-
-  
-  
-  
-  /*****************************************/
   
   form h1 {
     text-align:center;
